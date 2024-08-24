@@ -1,0 +1,80 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+    margin: 0px;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#debug {
+    font-family: monospace;
+    font-size: larger;
+    position: absolute;
+    left: 0px;
+    top: 50px;
+    border: 1px solid red;
+    width: 400px;
+    height: 220px;
+    color: white;
+    pointer-events: none;
+}
+#debug2 {
+    font-family: monospace;
+    font-size: larger;
+    position: absolute;
+    left: 0px;
+    top: 280px;
+    border: 1px solid green;
+    width: 400px;
+    height: 110px;
+    color: white;
+    pointer-events: none;
+}
+#debug3 {
+    font-family: monospace;
+    font-size: larger;
+    position: absolute;
+    left: 0px;
+    top: 400px;
+    border: 1px solid blue;
+    width: 400px;
+    height: 110px;
+    color: white;
+    pointer-events: none;
+}
+#debug4 {
+    font-family: monospace;
+    font-size: xx-large;
+    position: absolute;
+    left: 60px;
+    top: 10px;
+    width: 400px;
+    height: 50px;
+    color: white;
+    pointer-events: none;
+}
+#debug5 {
+    font-family: monospace;
+    font-size: larger;
+    position: absolute;
+    left: 0px;
+    top: 520px;
+    border: 1px solid fuchsia;
+    width: 400px;
+    height: 110px;
+    color: white;
+    pointer-events: none;
+}
