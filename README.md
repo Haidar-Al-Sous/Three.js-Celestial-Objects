@@ -5,6 +5,7 @@
 This project simulates the interactions and movements of celestial bodies based on physical laws. Users can add and modify celestial objects with specific properties and observe their behaviors.
 
 ## Basic Features
+![](./1.png)
 
 - **Gravitational Interaction**: Analyze mutual influences according to the law of universal gravitation.
 - **Newtonian Motion**: Study movements using Newton's laws of motion.
@@ -17,6 +18,7 @@ This project simulates the interactions and movements of celestial bodies based 
   - Diameter
 
 ## Advanced Features
+![](./2.png)
 
 - **Collision Analysis**: Study collisions between celestial bodies.
 - **Relativity Effects**: Incorporate effects from relativity theory.
@@ -24,7 +26,11 @@ This project simulates the interactions and movements of celestial bodies based 
 - **Property Modification**: Modify and delete properties during execution.
 - **Rotational Dynamics**: Study body rotation and changes due to collisions.
 
+- The sphere is geometrically drawn.
+
+
 ## User Interface
+![](./3.png)
 
 - **Interactive UI**: An interactive interface for displaying data and events, supporting mouse and keyboard interaction.
 
@@ -62,3 +68,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
