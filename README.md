@@ -1,6 +1,4 @@
-# Three.js Journey
-
-# Celestial Simulation Project
+# Three.js Journey (Celestial Simulation Project)
 
 ## Overview
 
@@ -29,6 +27,19 @@ This project simulates the interactions and movements of celestial bodies based 
 ## User Interface
 
 - **Interactive UI**: An interactive interface for displaying data and events, supporting mouse and keyboard interaction.
+
+
+## Controls
+
+- **W**: Move forward
+- **S**: Move backward
+- **A**: Move left
+- **D**: Move right
+
+- **LEFT**: Rotate left
+- **RIGHT**: Rotate right
+- **UP**: Rotate up
+- **DOWN**: Rotate down
 
 ## Technologies Used
 
