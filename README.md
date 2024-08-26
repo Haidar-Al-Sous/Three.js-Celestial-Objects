@@ -37,6 +37,7 @@ This project simulates the interactions and movements of celestial bodies based 
 
 ## Controls
 
+-"Right-click on a planet to reveal information about the planet and the distance between it and another planet
 - **W**: Move forward
 - **S**: Move backward
 - **A**: Move left
