@@ -70,3 +70,29 @@ npm run dev
 npm run build
 ```
 
+## Project Concept
+
+Study the movement of celestial bodies and their mutual effects.
+
+### Input
+
+- **Mass of the body**: \( m \)
+- **Initial position of the body**: \( P_0 (x_0, y_0, z_0) \)
+- **Initial velocity of the body**: \( V_0 (v_{x0}, v_{y0}, v_{z0}) \)
+
+### Output
+
+- **Position of the body at every moment \( t \)**: \( P(x, y, z) \)
+
+### Calculating the Position
+
+Based on the velocity calculation law, we have:
+
+\[ 
+V = P'(t) = \frac{dP}{dt} 
+\]
+
+Where:
+- \( P \) is the position of the body
+- \( V \) is the velocity of the body
+- \( t \) is the time
